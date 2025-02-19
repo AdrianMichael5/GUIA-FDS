@@ -1,4 +1,4 @@
-# Tutorial: Fundamentos de Desenvolvimento de Software com Django
+# GUIA: Fundamentos de Desenvolvimento de Software com Django
 
 Este tutorial detalha todas as etapas necessárias para a realização do trabalho da disciplina de **Fundamentos de Desenvolvimento de Software**, que utiliza **Django** como base. Todas as entregas devem ser atualizadas no **README** do repositório no GitHub conforme as datas de entrega. O monitor será responsável pela avaliação dos projetos.
 
