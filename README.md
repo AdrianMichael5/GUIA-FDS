@@ -1,12 +1,15 @@
 # GUIA: Fundamentos de Desenvolvimento de Software com Django
 
-Este tutorial detalha todas as etapas necessárias para a realização do trabalho da disciplina de **Fundamentos de Desenvolvimento de Software**, que utiliza **Django** como base. Todas as entregas devem ser atualizadas no **README** do repositório no GitHub conforme as datas de entrega. O monitor será responsável pela avaliação dos projetos.
+Este tutorial detalha todas as etapas necessárias para a realização do trabalho da disciplina de **Fundamentos de Desenvolvimento de Software**. Todas as entregas devem ser atualizadas no **README** do repositório no GitHub conforme as datas de entrega. O monitor será responsável pela avaliação dos projetos.
 
 <details>
 
 <summary>📧 Entrega 1</summary>
 
 # Entrega 01
+
+![image](https://github.com/user-attachments/assets/d550b848-82f4-4b6a-81eb-7f4e15e510b6)
+
 
 ## 📦**Histórias bem definidas e completas (mínimo 08)**
   ###  - Claras, concisas e completas, com cenários de validação (adicionar link para arquivo doc com as histórias ao README).
@@ -67,6 +70,9 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 
 # Entrega 02
 
+![image](https://github.com/user-attachments/assets/fb97b27a-d63c-45e9-abec-59b585d6e3bc)
+
+
 ## 📦**Seleção de ao menos 3 histórias para implementar**
 
 ### - Criação de sprint no JIRA (Acessível através do README).
@@ -122,6 +128,9 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 <summary>📧 Entrega 3</summary>
 
 ## Entrega 03
+
+![image](https://github.com/user-attachments/assets/fa554c39-0288-48be-8e6b-779b90779916)
+
 
 ## Seleção de mais histórias para implementar (pelo menos 3)
 ### - Criação de nova sprint no JIRA.
@@ -220,37 +229,134 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 
 <br/>
 
-
-
-
-
-
 </details>
 
 ![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
-
 
 <details>
 
 <summary>📧 Entrega 4</summary>
 
-## Entrega 04
+# Entrega 04
 
-### Requisitos
+![image](https://github.com/user-attachments/assets/70a4a106-0310-4979-8b59-45fca5136b09)
 
-- **Seleção de mais histórias para implementar (mínimo 3)**
-  - Criação de **nova sprint no JIRA**.
-- **Atualização dos protótipos de Lo-Fi**
-  - Criar **sketches e storyboards** para as novas histórias.
-  - Adicionar **novo screencast** (ênfase nas novas histórias) ao README.
-- **Ambiente de versionamento atuante**
-  - Commits frequentes (**mínimo semanais**).
-- **Deployment das novas histórias**
-  - Adicionar **novo screencast** (ênfase nas novas histórias) ao README.
-  - A URL **tem que aparecer no screencast**.
-- **Uso do Issue/Bug Tracker (GitHub)**
-  - Adicionar **print da tela** ao README.
-- **Documentação clara e objetiva**
-  - Criar um arquivo **CONTRIBUTING.md** para guiar qualquer pessoa na montagem do ambiente e contribuição com o projeto.
+
+## Seleção de mais histórias para implementar (pelo menos 2)
+### - Criação de nova sprint no JIRA
+
+![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
+
+## Atualização dos protótipos de Lo-Fi (Sketches e storyboards para as novas histórias)
+### Adicionar novo screencast (ênfase nas novas histórias) ao README
+
+![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
+
+## Ambiente de versionamento atuante
+### Com commits frequentes (no mínimo semanais).
+
+![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
+
+## Deployment das novas histórias
+### Adicionar novo screencast (ênfase nas novas histórias) ao README / *A URL TEM que aparecer no screencast*
+
+![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
+
+## Uso do Issue/bug tracker (no GitHub)
+### Adicionar print da tela ao README.
+
+![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
+
+## Testes de Sistema (E2E) automatizados
+### Adicionar screencast (youtube) da execução dos testes ao README.
+
+![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
+
+## CI/CD com build e deployment automatizado, Pipeline alterada com adição dos testes automatizados
+### Adicionar screencast (youtube) do processo de build (incluindo execução dos testes) e deployment ao README.
+
+![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
+
+## Atualização sobre o uso da programação em pares
+### Incremente o relato anterior.
+
+![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
+
+## Quadro da Sprint 03 atualizado refletindo a entrega
+### Adicionar print do quadro da sprint ao README.
+
+![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
+
+</details>
+
+![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
+
+<br>
+
+<p align="center"><img src="https://github.com/Taverna-Hub/ForgeSheets/assets/117609505/9287638f-8716-4e62-9989-a40882fbfed6" width="40px"></p>
+
+## 🤝 Desenvolvido por:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AdrianMichael5" title="GITHUB ADRIAN MICHAEL">
+        <img src="https://avatars.githubusercontent.com/u/144910632?v=4" width="100px;" alt="Foto Adrian Michael"/><br>
+        <sub>
+          <b>Adrian Michael</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jeraross" title="GITHUB Jerônimo Barbosa">
+        <img src="https://avatars.githubusercontent.com/u/152320515?v=4" width="100px;" alt="Foto Jerônimo Barbosa"/><br>
+        <sub>
+          <b>Jerônimo Barbosa</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jp-moraiss" title="GITHUB João Pedro Morais">
+        <img src="https://avatars.githubusercontent.com/u/164018039?v=4" width="100px;" alt="Foto João Pedro Morais"/><br>
+        <sub>
+          <b>João Pedro Morais</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JhMicucci" title="GITHUB João Henrique Micucci">
+        <img src="https://avatars.githubusercontent.com/u/167875870?v=4" width="100px;" alt="Foto João Micucci"/><br>
+        <sub>
+          <b>João Micucci</b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/144910632?v=4" width="100px;" alt="Foto"/><br>
+        <sub>
+          <b>Luís Filipe</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/144910632?v=4" width="100px;" alt="Foto"/><br>
+        <sub>
+          <b>Henrique Gueiros</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="" title="GITHUB Nina França">
+        <img src="https://avatars.githubusercontent.com/u/168862762?v=4" width="100px;" alt="Foto Nina França"/><br>
+        <sub>
+          <b>Nina França</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 </details>
