@@ -293,7 +293,7 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 
 <br>
 
-## 🤝 Desenvolvido por:
+## 🤝 Desenvolvido pelos monitores:
 <table>
   <tr>
     <td align="center">
