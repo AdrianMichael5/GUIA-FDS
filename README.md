@@ -106,20 +106,17 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 
 ## Entrega 03
 
-- **Seleção de mais histórias para implementar (mínimo 3)**
-  - Criação de **nova sprint no JIRA**.
-- **Atualização dos protótipos de Lo-Fi**
-  - Criar **sketches e storyboards** para as novas histórias.
-  - Adicionar **novo screencast** (ênfase nas novas histórias) ao README.
-- **Ambiente de versionamento atuante**
-  - Commits frequentes (**mínimo semanais**).
-- **Deployment das novas histórias**
-  - Adicionar **novo screencast** (ênfase nas novas histórias) ao README.
-  - A URL **tem que aparecer no screencast**.
-- **Testes de Sistema Automatizados**
-  - Adicionar **screencast da execução dos testes** ao README.
-- **Quadro da Sprint 02 atualizado refletindo a entrega**
-  - Adicionar **print do quadro da sprint** ao README.
+## Seleção de mais histórias para implementar (pelo menos 3)
+### - Criação de nova sprint no JIRA
+
+## Ex:
+### 📄 Jira Backlog
+![Print Backlog Jira](https://github.com/user-attachments/assets/91a2b7e5-a81f-454c-8d60-ee20398dac69)
+
+<br/>
+  
+### 📄 Jira Board 
+![Print Quadro Jira](https://github.com/user-attachments/assets/0f7fec31-2f54-404a-891a-035cfc113a37)
 
 </details>
 
