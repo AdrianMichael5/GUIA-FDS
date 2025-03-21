@@ -328,14 +328,6 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
         </sub>
       </a>
     </td>
-     <td align="center">
-      <a href="" title="defina o título do link">
-        <img src="https://avatars.githubusercontent.com/u/144910632?v=4" width="100px;" alt="Foto"/><br>
-        <sub>
-          <b>Luís Filipe</b>
-        </sub>
-      </a>
-    </td>
     <td align="center">
       <a href="" title="defina o título do link">
         <img src="https://avatars.githubusercontent.com/u/144910632?v=4" width="100px;" alt="Foto"/><br>
