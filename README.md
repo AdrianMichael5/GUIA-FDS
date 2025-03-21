@@ -27,7 +27,7 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 
 <p align="center" style="">
   <a href="https://cesar-team-hrq0duwp.atlassian.net/jira/software/c/projects/ASB/boards/2/backlog">
-    <img src="https://img.shields.io/badge/jira-BF9056?style=for-the-badge&logo=Jira&logoColor=white"  height="35px"/></a>
+    <img src="https://img.shields.io/badge/jira-ff6000?style=for-the-badge&logo=Jira&logoColor=white"  height="35px"/></a>
 </p>
 
 ![image](https://github.com/user-attachments/assets/f7cf621d-e434-4f30-b3e9-1d1b95ccafd9)
@@ -47,7 +47,7 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 <br/>
 <p align="center" style="">
 <a href="https://www.figma.com/design/pPRKVRNJ43rstlnDNuK3r9/Untitled?node-id=0-1&node-type=CANVAS&t=IIvNMOQc7vPA0prk-0">
-  <img src="https://img.shields.io/badge/figma-40211A?style=for-the-badge&logo=figma&logoColor=white"  height="35px"/></a>
+  <img src="https://img.shields.io/badge/figma-ff6000?style=for-the-badge&logo=figma&logoColor=white"  height="35px"/></a>
 </p>
 <br/>
 
@@ -57,7 +57,7 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 
 <p align="center" style="">
   <a href="https://youtu.be/jZvbiS0Z8AM">
-  <img src="https://img.shields.io/badge/screencast-BF9056?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
+  <img src="https://img.shields.io/badge/screencast-ff6000?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
 </p>
 
 </details>
@@ -152,7 +152,7 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 ## Ex:
 <p align="center" style="">
   <a href="https://www.youtube.com/watch?v=tqTcS3xTSbQ"> 
-<img src="https://img.shields.io/badge/screencast do protótipo LOFI-BF9056?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
+<img src="https://img.shields.io/badge/screencast do protótipo LOFI-ff6000?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
 </p>
 
 ![image](https://github.com/user-attachments/assets/68049e9d-abbd-432d-b638-6609944bac3b)
@@ -172,7 +172,7 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 ## Ex:
 <p align="center" style="">
 <a href="https://www.youtube.com/watch?v=Yep3uIcMaM0"> 
-  <img src="https://img.shields.io/badge/screencast na azure-BF9056?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
+  <img src="https://img.shields.io/badge/screencast na azure-ff6000?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
 </p>
 
 ![image](https://github.com/user-attachments/assets/68049e9d-abbd-432d-b638-6609944bac3b)
@@ -191,7 +191,7 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 ## Ex:
 <p align="center" style="">
 <a href="https://www.youtube.com/watch?v=aEOgIgVU7z0"> 
-<img src="https://img.shields.io/badge/screencast do Build-BF9056?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
+<img src="https://img.shields.io/badge/screencast do Build-ff6000?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
 </p>
 
 ![image](https://github.com/user-attachments/assets/68049e9d-abbd-432d-b638-6609944bac3b)
@@ -202,7 +202,7 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 ## Ex:
 <p align="center" style="">
 <a href="https://www.youtube.com/watch?v=cXZj9YOgp-Y&t=90s"> 
-  <img src="https://img.shields.io/badge/screencast testes-BF9056?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
+  <img src="https://img.shields.io/badge/screencast testes-ff6000?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
 </p>
 
 ![image](https://github.com/user-attachments/assets/68049e9d-abbd-432d-b638-6609944bac3b)
@@ -293,8 +293,6 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 
 <br>
 
-<p align="center"><img src="https://github.com/Taverna-Hub/ForgeSheets/assets/117609505/9287638f-8716-4e62-9989-a40882fbfed6" width="40px"></p>
-
 ## 🤝 Desenvolvido por:
 <table>
   <tr>
@@ -356,7 +354,5 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
     </td>
   </tr>
 </table>
-
-
 
 </details>
