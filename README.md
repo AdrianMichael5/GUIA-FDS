@@ -106,9 +106,9 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 ![image](https://github.com/user-attachments/assets/0ce9d5a8-9421-43d2-a8d6-3fc5c9c1e317)
 
 
-## 🚧📦**Deployment das histórias em produção** (Adicionar link e instruções de acesso ao README)
+## 📦**Deployment das histórias em produção** (Adicionar link e instruções de acesso ao README)
 
-# 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+# https://gist.github.com/ricardorac/fe14b4efb1bf9bf24e108283e318bf57
 
 ![image](https://github.com/user-attachments/assets/6e695074-92d1-4c57-91e9-744d373d68cd)
 
@@ -201,8 +201,8 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 
 ## Ex:
 <p align="center" style="">
-<a href="https://www.youtube.com/watch?v=cXZj9YOgp-Y&t=90s"> 
-  <img src="https://img.shields.io/badge/screencast testes-ff6000?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
+<a href="https://youtu.be/L7LFcArfGVo"> 
+  <img src="https://img.shields.io/badge/screencast testes-BF9056?style=for-the-badge&logo=youtube&logoColor=white" height="35px"/></a>
 </p>
 
 ![image](https://github.com/user-attachments/assets/68049e9d-abbd-432d-b638-6609944bac3b)
@@ -216,7 +216,6 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 ![image](https://github.com/user-attachments/assets/68049e9d-abbd-432d-b638-6609944bac3b)
 
 ## Quadro da Sprint 02 atualizado refletindo a entrega
-### Quadro da Sprint 02 atualizado refletindo a entrega
 
 ## Ex:
 ### 📄 Jira Backlog
