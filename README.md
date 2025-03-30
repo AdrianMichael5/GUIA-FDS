@@ -18,12 +18,12 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 
  ## Ex:
  
- ### 📄 Jira Backlog
-![Print Backlog Jira](https://github.com/user-attachments/assets/053e9784-72ee-4fcd-9d69-395b3cf0fe04)
+### 📄 Jira Backlog
+![Print Backlog Jira](https://github.com/user-attachments/assets/85057906-c0a4-4544-834f-07f66729746d)
 
 
 ### 📄 Jira Board 
-![Print Quadro Jira](https://github.com/user-attachments/assets/7f37841c-bcd7-4eb2-af9e-abc0106f9638)
+![Print Quadro Jira](https://github.com/user-attachments/assets/694a7b21-ee47-4f9d-b51c-e31bf16ba9b1)
 
 <p align="center" style="">
   <a href="https://cesar-team-hrq0duwp.atlassian.net/jira/software/c/projects/ASB/boards/2/backlog">
