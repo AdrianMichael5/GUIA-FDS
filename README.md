@@ -186,7 +186,7 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 ![image](https://github.com/user-attachments/assets/68049e9d-abbd-432d-b638-6609944bac3b)
 
 ## ⚠️ CI/CD com build e deployment automatizado, Pipeline criada no Github.
-### - Adicionar screencast (disponível no Youtube) do processo de build e deployment ao README.
+### - Adicionar screencast (disponível no Youtube) com audio do processo de build e deployment ao README.
 
 ## Ex:
 <p align="center" style="">
@@ -197,7 +197,7 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 ![image](https://github.com/user-attachments/assets/68049e9d-abbd-432d-b638-6609944bac3b)
 
 ## ⚠️ Testes de Sistema (E2E) Automatizados 
-### - Adicionar screencast (youtube) da execução dos testes ao README
+### - Adicionar screencast (youtube) com audio da execução dos testes ao README
 
 ## Ex:
 <p align="center" style="">
@@ -267,12 +267,12 @@ Este tutorial detalha todas as etapas necessárias para a realização do trabal
 ![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
 
 ## Testes de Sistema (E2E) automatizados
-### Adicionar screencast (youtube) da execução dos testes ao README.
+### Adicionar screencast (youtube) com audio da execução dos testes ao README.
 
 ![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
 
 ## CI/CD com build e deployment automatizado, Pipeline alterada com adição dos testes automatizados
-### Adicionar screencast (youtube) do processo de build (incluindo execução dos testes) e deployment ao README.
+### Adicionar screencast (youtube) com audio do processo de build (incluindo execução dos testes) e deployment ao README.
 
 ![image](https://github.com/user-attachments/assets/a8a68d05-4bbe-42c0-89cc-a6a9b64a4de9)
 
